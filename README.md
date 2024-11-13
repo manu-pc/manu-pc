@@ -1,6 +1,6 @@
 # hi!!!!!!!
 
-CS student at USC, Spain
+computer engineering student at USC, Spain
 
 code/comments may be in galician and generally unreadable
 
