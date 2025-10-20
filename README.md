@@ -8,8 +8,6 @@ coder for [Kaiserreich](https://en.wikipedia.org/wiki/Kaiserreich_(video_game))
 
 code/comments may be in galician and generally unreadable
 
-main languages:
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white) 
-
+![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white) and ![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat&logo=sqlite&logoColor=white) my beloved
 
 stream [glass beach](https://open.spotify.com/track/0s4SBcxkhUzP14eFKrWdEC?si=c1a224cdefcd4ed3)
