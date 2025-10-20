@@ -2,9 +2,9 @@
 
 computer engineering student at USC, Spain
 
-community manager and webdev for ![Panadería Ana](https://www.instagram.com/panaderia.ana/)
+community manager and webdev for [Panadería Ana](https://www.instagram.com/panaderia.ana/)
 
-coder for ![Kaiserreich](https://en.wikipedia.org/wiki/Kaiserreich_(video_game))
+coder for [Kaiserreich](https://en.wikipedia.org/wiki/Kaiserreich_(video_game))
 
 code/comments may be in galician and generally unreadable
 
