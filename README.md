@@ -2,7 +2,7 @@
 
 computer engineering student at USC, Spain
 
-community manager and webdev for [Panadería Ana](panaderiaana.com)
+community manager and webdev for [Panadería Ana](https://panaderiaana.com)
 
 coder for [Kaiserreich](https://en.wikipedia.org/wiki/Kaiserreich_(video_game))
 
