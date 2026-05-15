@@ -6,7 +6,7 @@ community manager and webdev for [Panadería Ana](https://panaderiaana.com)
 
 code/comments may be in galician and generally unreadable
 
-![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white) and ![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat&logo=sqlite&logoColor=white) my beloved
+![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white) and ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff) my beloved
 
 my favorite color is ![color](https://img.shields.io/badge/-123888-%23123888?style=flat-square)!
 
